@@ -1,3 +1,0 @@
-/home/gas/Documents/SFND_EKF/pedestrian_tracking/build/CMakeFiles/edit_cache.dir
-/home/gas/Documents/SFND_EKF/pedestrian_tracking/build/CMakeFiles/test_script.dir
-/home/gas/Documents/SFND_EKF/pedestrian_tracking/build/CMakeFiles/rebuild_cache.dir
