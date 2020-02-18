@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gas/Documents/SFND_EKF/pedestrian_tracking/src/test.cpp
+iostream
+-
+vector
+-
+eigen3/Eigen/Dense
+-
+
