@@ -8,4 +8,4 @@ set(CMAKE_CXX_FLAGS, "${CXX_FLAGS}")
 find_package(PkgConfig)
 pkg_search_module(Eigen3 REQUIRED eigen3)
 
-add_executable(test_script src/test.cpp)
+add_executable(main src/main.cpp src/kalman_filter.cpp src/tracking.cpp)
